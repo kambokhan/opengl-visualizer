@@ -1,0 +1,2 @@
+A:\PROGRAMMING\opengl-visualizer-redo\Debug\opengl-visualizer-redo.exe
+A:\PROGRAMMING\opengl-visualizer-redo\Debug\opengl-visualizer-redo.pdb

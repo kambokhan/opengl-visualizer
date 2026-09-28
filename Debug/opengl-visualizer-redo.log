@@ -1,0 +1,5 @@
+﻿  main.cpp
+A:\PROGRAMMING\opengl-visualizer-redo\main.cpp(99,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+A:\PROGRAMMING\opengl-visualizer-redo\main.cpp(136,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+A:\PROGRAMMING\opengl-visualizer-redo\main.cpp(137,24): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  opengl-visualizer-redo.vcxproj -> A:\PROGRAMMING\opengl-visualizer-redo\Debug\opengl-visualizer-redo.exe

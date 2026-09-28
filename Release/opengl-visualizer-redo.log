@@ -1,0 +1,13 @@
+﻿  MusicProcessing.cpp
+A:\PROGRAMMING\opengl-visualizer-redo\MusicProcessing.cpp(104,30): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+A:\PROGRAMMING\opengl-visualizer-redo\main.cpp(171,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+A:\PROGRAMMING\opengl-visualizer-redo\main.cpp(192,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+A:\PROGRAMMING\opengl-visualizer-redo\main.cpp(229,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+A:\PROGRAMMING\opengl-visualizer-redo\main.cpp(230,24): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Generating code
+  1 of 584 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  opengl-visualizer-redo.vcxproj -> A:\PROGRAMMING\opengl-visualizer-redo\Release\opengl-visualizer-redo.exe
